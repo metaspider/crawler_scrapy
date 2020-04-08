@@ -2,3 +2,4 @@
     * bokeyuan
     * fengye
     * qiushibaike
+    * suningbook
