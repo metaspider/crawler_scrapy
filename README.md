@@ -1,6 +1,7 @@
 # scrapy_demo
     * bokeyuan
-    * fengye
-    * qiushibaike
-    * suningbook
     * circ
+    * fengye
+    * jdbook
+    * qiushibaike
+    * tieba
